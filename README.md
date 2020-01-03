@@ -1,4 +1,6 @@
 # <img src="img/antilles.png"> Antilles
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjedrecord%2FAntilles.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjedrecord%2FAntilles?ref=badge_shield)
+
 
 Antilles is an infrastructure management software for high-performance computing (HPC). It provides features like cluster management and monitoring, job scheduling and management, cluster user management, account management, and file system management.
 
@@ -32,3 +34,6 @@ Antilles User guide reference to [docs/Antilles_user_guide.md](./docs/Antilles_u
 
 BSD-3 license for individual/non-commercial use and EPL-1.0 license for commercial use.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjedrecord%2FAntilles.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjedrecord%2FAntilles?ref=badge_large)
